@@ -1,2 +1,7 @@
-# scylla-website
-Website for scylla
+# Scylla
+
+Website is currentlly under developement 
+
+Made with ❤ by @pufferisadev && @mrbeef777
+
+Designed by jaffa 
